@@ -15,7 +15,7 @@ The **Human Activity Recognition System** is a deep learning-based model that cl
 - **OpenCV** (for real-time camera input)  
 - **TensorFlow/Keras or PyTorch** (for deep learning)  
 - **Flask or FastAPI** (for backend API)  
-- **HTML, CSS, JavaScript** (for frontend integration)  
+
 
 ## 📂 Dataset  
 The dataset consists of labeled images stored in CSV files:  
